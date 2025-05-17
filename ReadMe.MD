@@ -7,7 +7,8 @@ Files for vanilla stages with the foreground grass layer removed, custom charact
 
 ### How the hell do I install this?
 
-1.  Grab the File Extractor from [here](https://files.catbox.moe/ghmr93.zip) or from the included zip (File Extractor.zip) 
+1. Click the green code button in this page and then select `Download ZIP`
+1. Grab the File Extractor from [here](https://files.catbox.moe/ghmr93.zip) or from the included zip (File Extractor.zip) 
 2. Move dump.exe to the same folder as MBAA.exe
 3. Drag and drop the following .p files into dump.exe (a cmd window should pop up showing extraction progress): 
 
@@ -20,12 +21,12 @@ Files for vanilla stages with the foreground grass layer removed, custom charact
 and 0008.p (Translation files).
 ```
 
-4. \- Take everything inside the newly created "out" folder into the same folder as MBAA.exe
-5. \- Rename the previously mentioned p files.
-6. \- Put the mod files in the same folder as MBAA.exe, replacing files when prompted.
+4. Take everything inside the newly created "out" folder into the same folder as MBAA.exe
+5. Rename the previously mentioned p files
+6. Put the mod files in the same folder as MBAA.exe, replacing files when prompted.
 
 ### Can I disable X part of the mod?
-Most things, yes! Here's a quick list of things you can easily disable/enable:
+Most things, yes! Here's a quick list of things you can easily toggle:
 
 - Edited Stages (aka. vanilla stages without the grass layer) - Rename 0000.p to enable, rename it back to 0000.p to disable;
 - Custom music (for character select and win screen) - Rename 0001.p to enable, rename it back to 0001.p to disable;
