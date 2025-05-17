@@ -1,11 +1,11 @@
-1.1 Changelog - 07/01/24
+1.1.0 Changelog - 07/01/24
 
 > Increased Magic Circuit height by 2px
 > Rewrote ReadMe.txt
 > Fixed bgm.txt
 > Added custom win screen music
 
-v2 Changelog - 14/01/24
+2.0.0 Changelog - 14/01/24
 
 > Added combo counter thingies
 > Added custom training mode input graphics 
