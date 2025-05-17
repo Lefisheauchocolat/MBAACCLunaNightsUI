@@ -1,5 +1,5 @@
 # Melty Blood Luna Nights Again Current Code 
-GitHub repository for an MBAACC mod that mainly replaces the vanilla UI with a Touhou Luna Nights styled interface using ripped and edited assets from the game. 
+GitHub repository for a MBAACC mod that mainly replaces the vanilla UI with a Touhou Luna Nights styled interface using ripped and edited assets from the game. 
 
 ### What the hell does this include?
 
@@ -21,9 +21,9 @@ Files for vanilla stages with the foreground grass layer removed, custom charact
 and 0008.p (Translation files).
 ```
 
-5. Take everything inside the newly created "out" folder into the same folder as MBAA.exe
-6. Rename the previously mentioned p files
-7. Put the mod files in the same folder as MBAA.exe, replacing files when prompted.
+5. Move everything inside the newly created `out` folder to the same folder as MBAA.exe
+6. Rename the .p files listed above
+7. Move mod files to the same folder as MBAA.exe, replacing files when prompted.
 
 ### Can I disable X part of the mod?
 Most things, yes! Here's a quick list of things you can easily toggle:
