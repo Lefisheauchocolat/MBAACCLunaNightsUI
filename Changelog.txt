@@ -1,0 +1,13 @@
+1.1 Changelog - 07/01/24
+
+> Increased Magic Circuit height by 2px
+> Rewrote ReadMe.txt
+> Fixed bgm.txt
+> Added custom win screen music
+
+v2 Changelog - 14/01/24
+
+> Added combo counter thingies
+> Added custom training mode input graphics 
+  >> Numpad notation instead of arrows, including an icon for 5/neutral
+> Fixed corrupted win quote files that could cause a crash when Ciel wins
